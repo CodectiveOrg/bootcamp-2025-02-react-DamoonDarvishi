@@ -1,6 +1,6 @@
 # React Bootcamp 2025
 
-# What will you learn:
+## What will you learn:
 
 <p align="center">
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
