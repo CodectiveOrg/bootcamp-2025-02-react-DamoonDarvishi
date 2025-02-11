@@ -7,7 +7,6 @@ export function sortEntities(items: IEntity[]): IEntity[] {
     for (let j = 0; j < result.length - 1; j++) {
       const firstDate = new Date(result[j].modifiedAt ?? result[j].createdAt);
       const secondDate = new Date(
-        // eslint-disable-next-line prettier/prettier
         result[j + 1].modifiedAt ?? result[j + 1].createdAt
       );
 
