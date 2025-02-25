@@ -1,0 +1,21 @@
+:root {
+  --color-primary: hsl(212, 100%, 48%);
+  --color-secondary: hsl(208, 7%, 46%);
+  --color-success: hsl(134, 61%, 41%);
+  --color-danger: hsl(354, 70%, 54%);
+  --color-warning: hsl(45, 100%, 51%);
+  --color-info: hsl(188, 78%, 41%);
+  --color-background: hsl(0, 0%, 100%);
+  --color-surface: hsl(210, 17%, 98%);
+  --color-text-primary: hsl(210, 11%, 15%);
+  --color-text-secondary: hsl(208, 7%, 46%);
+  --color-text-disabled: hsl(210, 11%, 71%);
+  --color-border: hsl(210, 14%, 89%);
+  --color-divider: hsl(210, 16%, 93%);
+
+  /* Fonts */
+  --font-primary: "Inter", sans-serif;
+  --font-size-base: 16px;
+  --font-size-heading: 24px;
+  --font-size-subheading: 20px;
+}
